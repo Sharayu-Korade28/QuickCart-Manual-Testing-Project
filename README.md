@@ -6,4 +6,5 @@ To validate the core e-commerce functionalities of the QuickCart application thr
 
 # Tools Used
 . MS Excel – Test scenarios, test cases, RTM, defect logs
+
 . MS Word / PDF – Test summary report
