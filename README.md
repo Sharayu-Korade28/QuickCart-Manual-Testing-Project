@@ -1,8 +1,7 @@
 # QuickCart-Manual-Testing-Project
-This repository contains a complete end-to-end manual testing project for a sample e-commerce application (QuickCart), including test scenarios, test cases, RTM, bug report, and PDF summaries.
-
+This repository contains a complete end-to-end manual testing project for a sample e-commerce application (QuickCart). It includes test scenarios, test cases, Requirement Traceability Matrix (RTM), defect reports, and PDF summary documents.
 # Objective
-To validate the core e-commerce functionalities of the QuickCart application through structured manual testing.The goal is to identify defects, ensure requirement coverage, and improve overall application quality.
+The objective of this project is to validate the core e-commerce functionalities of the QuickCart application through structured manual testing. The goal is to identify defects, ensure full requirement coverage, and improve the overall quality and reliability of the application.
 
 # Tools Used
 . MS Excel – Test scenarios, test cases, RTM, defect logs
